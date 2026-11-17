@@ -1,4 +1,0 @@
-aiogram
-aiohttp
-ujson
-aiohttp-socks
